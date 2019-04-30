@@ -14,8 +14,6 @@ public static int[][] ticbox;
  		
 		//check both diagonals 
 		
-		
-		
 		//write your code here !!!
 		
 		for(int row=0;row<3;row++)
